@@ -11,7 +11,7 @@
 | Github | [https://github.com/DandyKang84/MediaPlayer] |
 
 ## 개발기간
-2022.11.10(목) ~ 2022.11.13(일)
+2022.11.17(목) ~ 2022.11.20(일)
 
 https://user-images.githubusercontent.com/115531865/203446000-a459e211-53dd-4b5b-bdab-dfb2fdd10b40.mp4
 
